@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T20:03:12 IST" name="Default suite" finished-at="2022-11-23T20:03:26 IST" duration-ms="14293">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T20:03:12 IST" name="Default test" finished-at="2022-11-23T20:03:26 IST" duration-ms="14293">
+      <class name="com.seleniumframework.demo.Gmail_Login">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.seleniumframework.demo.Gmail_Login@429bffaa]" started-at="2022-11-23T20:03:12 IST" name="launchBrowser" finished-at="2022-11-23T20:03:23 IST" duration-ms="10580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login()[pri:0, instance:com.seleniumframework.demo.Gmail_Login@429bffaa]" started-at="2022-11-23T20:03:23 IST" name="login" finished-at="2022-11-23T20:03:26 IST" duration-ms="3675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.seleniumframework.demo.Gmail_Login@429bffaa]" started-at="2022-11-23T20:03:26 IST" name="logout" finished-at="2022-11-23T20:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.seleniumframework.demo.Gmail_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
